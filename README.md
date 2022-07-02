@@ -4,6 +4,6 @@
 ### SKILLS USED:
 HTML, CSS, JavaScript, Python, Django
 
-### View of webapp  
+### View of Project:
 
 ![image6](https://user-images.githubusercontent.com/90025002/176999095-c0c44d46-f619-4230-baef-543c4cd82cbc.png)
